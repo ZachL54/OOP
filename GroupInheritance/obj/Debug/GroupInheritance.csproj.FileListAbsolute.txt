@@ -1,0 +1,8 @@
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\bin\Debug\GroupInheritance.exe.config
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\bin\Debug\GroupInheritance.exe
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\bin\Debug\GroupInheritance.pdb
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\obj\Debug\GroupInheritance.csproj.AssemblyReference.cache
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\obj\Debug\GroupInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\obj\Debug\GroupInheritance.csproj.CoreCompileInputs.cache
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\obj\Debug\GroupInheritance.exe
+C:\Users\zacha\OneDrive\Desktop\[4] Object Oriented Programming [CPRG-211-F]\Assignments\GroupInheritance\GroupInheritance\GroupInheritance\obj\Debug\GroupInheritance.pdb
